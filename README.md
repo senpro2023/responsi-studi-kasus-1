@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Maura Yufi Septania Putri
+NIU : 463607
+Sesi : Jarkom1  
+Secret String : 577eca3664b4d0d0c1a625d78ee27675f3c838bffcfa571cb22e2e1de092ff6a20230616091704
 
 ## Checklist Responsi
 
